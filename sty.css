@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    
+}
+img{
+    width: 70%;
+    height: 70%;
+    
+}
+button{
+    background-color: aquamarine;
+    
+}
